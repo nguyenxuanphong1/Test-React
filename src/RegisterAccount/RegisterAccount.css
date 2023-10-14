@@ -1,0 +1,106 @@
+/* body */
+h1.title {
+    text-align: center;
+}
+
+form {position: relative;right: -44%;}
+
+div {
+    margin-top: 15px;
+}
+
+label.form-label {
+    display: block;
+}
+
+input#first-name {
+    width: 200px;
+    border: 1px solid;
+}
+
+input#last-name {
+    width: 200px;
+    border: 1px solid;
+}
+
+input#Email {
+    width: 200px;
+    border: 1px solid;
+}
+
+input#password {
+    width: 200px;
+    border: 1px solid;
+}
+
+input#confirm-password {
+    width: 200px;
+    border: 1px solid;
+}
+
+
+
+button.submit-btn {
+    margin-top: 20px;
+    height: 30px;
+    width: 100px;
+    /* text-align: center; */
+}
+
+
+h4.title {
+    background: cornsilk;
+    margin: auto;
+    height: 200px;
+    text-align: center;
+}
+
+
+/* footer */
+footer {
+    display: flex;
+    box-shadow: 0px 0px 21px rgb(0 0 0 /20%);
+}
+
+.row {
+    display: flex;
+    background: bisque;
+    height: 50vh;
+    margin-bottom: -20px;
+}
+
+.boxcenter1 {
+    display: inline-flex;
+    margin-inline: 502px;
+    /* display: table; */
+    margin-bottom: 425px;
+}
+
+.boxfooter1.colors {
+    position: relative;
+    right: 100px;
+    padding-right: 100p;
+}
+
+.boxfooter3.colors {
+    position: relative;
+    left: 100px;
+}
+
+.register-form-container {
+    margin-top: 100px;
+    margin-bottom: 150px;
+}
+
+button {
+    width: 80px;
+    height: 30px;
+    margin-top: 20px;
+}
+
+a {
+    text-decoration: none;
+    color: black;
+}
+
+button.submit-btn2 {margin-right: 44px;}
